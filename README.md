@@ -6,9 +6,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sanketnighot&theme=onedark" alt="sanketnighot" /></a> </p>
 
-- 🔭 I’m currently working on **Zenith**
+- 🔭 I’m currently working on **Zenith** and also as **a freelance Blockchain Developer**. 
 
-- 🌱 I’m currently learning **Rust Programming, Smart Rollups on Tezos**
+- 🌱 I’m currently learning **Rust Programming and about blockchain Rollups**
+
+- 📖 I also love mentoring and educating new talents.
 
 - 💬 Ask me about **Web3**
 
