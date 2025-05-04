@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sanket Nighot</h1>
-<h3 align="center">FUll Stack Developer (Web3 & AI)</h3>
+<h3 align="center">Full Stack Developer (Web3 & AI)</h3>
 <p align="center"><a href="https://twitter.com/sanket_nighot"><img alt="X (formerly Twitter) Follow" src="https://img.shields.io/twitter/follow/sanket_nighot"></a></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanketnighot&label=Profile%20views&color=0e75b6&style=flat" alt="sanketnighot" /> </p>
