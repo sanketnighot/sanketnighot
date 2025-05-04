@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Sanket Nighot</h1>
-<h3 align="center">Blockchain Developer</h3>
+<h3 align="center">FUll Stack Developer (Web3 & AI)</h3>
 <p align="center"><a href="https://twitter.com/sanket_nighot"><img alt="X (formerly Twitter) Follow" src="https://img.shields.io/twitter/follow/sanket_nighot"></a></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanketnighot&label=Profile%20views&color=0e75b6&style=flat" alt="sanketnighot" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sanketnighot&theme=onedark" alt="sanketnighot" /></a> </p>
 
-- 🔭 I’m currently working  as **a Freelance Blockchain Developer**. 
+- 🔭 I’m currently working  as **a Freelance Full Stack Developer (Web3 & AI)**. 
 
 - 🌱 I’m currently learning **Rust Programming and about AI Agents**
 
