@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanketnighot&label=Profile%20views&color=0e75b6&style=flat" alt="sanketnighot" /> </p>
 
-<p align="left"> <a href="https://github-profile-trophy-sigma-one.vercel.app"><img src="https://github-profile-trophy-sigma-one.vercel.app/?username=sanketnighot&theme=matrix" alt="sanketnighot" /></a> </p>
+<p align="left"> <a href="https://github-profile-trophy-sigma-one.vercel.app"><img src="https://github-profile-trophy-sigma-one.vercel.app/?username=sanketnighot&theme=matrix&column=5&margin-w=150&margin-h=15&no-bg=true&no-frame=true" alt="sanketnighot" /></a> </p>
 
 - 🔭 I’m currently working  as **a Freelance Full Stack Developer (Web3 & AI)**. 
 
